@@ -93,8 +93,8 @@ The project aligns with the UK’s **Road Safety Strategy** and **Vision Zero** 
 ---
 
 ## Repository Structure
-├── notebook.ipynb # Full analysis and modelling workflow
-├── Project_Report.pdf # Formal academic report
+├── Task1.ipynb # Full analysis and modelling workflow
+├── Classification Task1.pdf # Formal academic report
 └── README.md # Project overview (this file)
 
 ---
